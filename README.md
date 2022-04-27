@@ -25,7 +25,9 @@
 
 * Google Chrome 100.0.4896 及对应版本驱动
 
-  [驱动下载](https://chromedriver.storage.googleapis.com/index.html)
+  * 仓库中自带此版本的Chrome驱动
+  * 如果报错，则需要自己下载本机对应版本的驱动
+    * [驱动下载](https://chromedriver.storage.googleapis.com/index.html)
 
 ## 使用
 
