@@ -31,7 +31,7 @@
 
 ## 使用
 
-1. 安装环境，下载好本机google chrome对应版本的驱动
-   * 右上角三个点 - 帮助 - 关于 Google Chrome
+1. 安装环境，下载好本机Google Chrome对应版本的驱动
+   * 如何查询Chrome版本：右上角三个点 - 帮助 - 关于 Google Chrome
 2. 更改`config.yml`中的网页地址和个人信息
-3. 执行`hfp.py`# BJTU-SSE-HandsFreeProject
+3. 执行`hfp.py`
