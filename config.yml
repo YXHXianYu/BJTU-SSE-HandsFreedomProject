@@ -1,0 +1,24 @@
+# 目标打卡网页
+link: https://www.wjx.cn/vm/rZiFC6x.aspx
+
+# 姓名
+name: AAA
+
+# 居住地属性
+# 1~3分别对应校内,京内校外,京外
+homeAttribute: 1
+
+# 省份 (不含'省')
+province: 北京
+
+# 城市 (含'市')
+city: 北京市
+
+# 地区
+area: 海淀区
+
+# 地址
+position: 北京交通大学
+
+# 体温
+temperature: 36.5
